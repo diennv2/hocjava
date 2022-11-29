@@ -1,0 +1,22 @@
+package education.com;
+/**
+ * (C) Copyright 2022 Dien Nguyen. All Rights Reserved.
+ *
+ * @author Admin
+ * @date May 30, 2022
+ * @version 1.0
+*/
+
+public class HocComment {
+    public static void main(String[] args) {
+        // Đây câu lệnh in màn hình
+        System.out.println("Helo tui là Điển lè");
+        /*
+         * Đây là câu lệnh xuất ra màn hình có sử dụng ký tự đặc biệt
+         * \n Là xuống dòng
+         * \t là dấu tab
+         * \" là trích dẫn
+         */
+        System.out.println("\nHello Obama,\tHello Putin,\"Hello Elon Muck\"");
+    }
+}
