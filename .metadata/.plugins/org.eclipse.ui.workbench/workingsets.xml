@@ -27,6 +27,9 @@
 <item elementID="=RenLuyenSwitch" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=HocRenLuyen2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=TuRenLuyen" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HocBietLe" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HocFinally" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=HocThrow" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646129319772_2" label="Window Working Set" name="Aggregate for window 1646129319772"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1646129968711_9" label="Multiple Working Sets" name="Aggregate:Banking:Ecomemrce:">
@@ -38,6 +41,7 @@
 <workingSet IMemento.internal.id="Ecomemrce"/>
 <workingSet IMemento.internal.id="Fresher Academy"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670137899927_9" label="Window Working Set" name="Aggregate for window 1670137899927"/>
 <mruList name="JavaLearning"/>
 <mruList name="Banking"/>
 </workingSetManager>
